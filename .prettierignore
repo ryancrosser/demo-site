@@ -1,0 +1,4 @@
+svg-compiled-icons/*
+svg-icons/*
+dist/*
+jest.config.js
