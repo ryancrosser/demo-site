@@ -31,9 +31,7 @@ module.exports = {
     return {
       name: appConfig.title,
       externals: {
-        BUILD_INFO: 'var BUILD_INFO',
-        HAL9000_URL: 'var HAL9000_URL',
-        baseConfig: 'var baseConfig'
+        BUILD_INFO: 'var BUILD_INFO'
       }
     };
   },
